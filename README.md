@@ -91,5 +91,5 @@ Instead of manually converting every note into a separate task, I can use the ap
 
 The real goal isn't to automate productivity for its own sake. It's to make the overhead of staying organized smaller.
 
-##Prize Categories
-Best use of Gemma: to run and used to power the task creation from mess of notes ! :)
+## Prize Categories
+Best use of Gemma: to run and used to power the task creation from messy of notes ! :)
